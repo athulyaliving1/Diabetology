@@ -248,7 +248,7 @@ function Grid() {
                       className
                     >
                       <h1 className="flex justify-center p-2 font-sans text-xl font-semibold md:text-xl xl:text-3xl text-sky-800 md:p-5 ">
-                        Sumbit Your Details
+                        Submit Your Details
                       </h1>
                     </BootstrapDialogTitle>
                     <DialogContent dividers>
@@ -262,8 +262,8 @@ function Grid() {
             </div>
             <div className="max-w-sm px-6 pt-6 pb-2 text-gray-900 ">
               <div
-                
-               
+
+
               >
                 <img
                   src="https://res.cloudinary.com/drywqd3hf/image/upload/v1667889160/Price-tag-_1_mugr3w.png"
@@ -306,7 +306,7 @@ function Grid() {
                         onChange={handleMaxWidthChange}
                         className="flex justify-center p-2 font-sans text-xl font-semibold underline md:text-xl xl:text-3xl text-sky-800 md:p-5"
                       >
-                        Sumbit your Details
+                        Submit your Details
                       </h1>
                     </BootstrapDialogTitle>
                     <DialogContent dividers>

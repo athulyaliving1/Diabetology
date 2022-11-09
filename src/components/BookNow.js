@@ -234,7 +234,7 @@ function Booknow() {
                                     class=" bg-pink-600  text-white font-bold py-3 px-6 rounded-lg mt-3   hover:ring-4 ring-sky-700 transition ease-in-out duration-100"
                                     type="submit"
                                 >
-                                    Sumbit
+                                    Submit
                                 </button>
                             </div>
                         </form>
